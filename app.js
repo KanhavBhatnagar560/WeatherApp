@@ -37,3 +37,5 @@ function displayWeather(data) {
 
     document.getElementById('weatherDisplay').classList.remove('hidden');
 }
+
+// I did this 
